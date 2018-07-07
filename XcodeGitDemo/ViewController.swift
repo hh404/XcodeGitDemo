@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         
         //add  function named feature2
-        
+        //add  function2 for feature2
     }
 
     override func didReceiveMemoryWarning() {
