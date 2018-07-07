@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         // deveop branch is root branch
         
+        
+        //add  function named feature2
+        
     }
 
     override func didReceiveMemoryWarning() {
