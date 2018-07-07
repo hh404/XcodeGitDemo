@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // deveop branch is root branch
         //add new feature named feature1
         //feature1 function2
+        //feature1 function3
     }
 
     override func didReceiveMemoryWarning() {
